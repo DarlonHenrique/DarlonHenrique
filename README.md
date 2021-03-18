@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![Hi gif](https://github.com/DarlonHenrique/DarlonHenrique/blob/main/hi.gif)
 
 <!--
 **DarlonHenrique/DarlonHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
