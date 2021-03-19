@@ -19,3 +19,11 @@
 - Node
 - Yarn
 - Figma
+
+
+## 🎓 completed courses
+  ### Next Level Week 3° Edition | Happy Project
+  ![happy image](https://github.com/DarlonHenrique/happy-project-nlw-3/blob/main/.github/Happy.png)
+  > the happy app was developed with the intention of helping people book visits to social assistance houses and making the day of several people better
+  ### technologies used 
+  in this app I used the **Handlebars** to create the project template, I also used **SQlite** as a local database, the style was done with pure **CSS**, I  implemented the **OpenStreetMap API** to generate a map and pure **javascript** to create the back-end.
