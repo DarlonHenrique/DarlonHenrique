@@ -4,26 +4,26 @@
 
 ## 📚 Currently Studying
 
-- Next.js
-- React.js
-- Typescript
-- MongoDB Atlas
+- Next <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next icon" width="20px" height="20px"/>
+- React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react icon" width="20px" height="20px"/>
+- Typescript <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript icon" width="20px" height="20px"/>
+- MongoDB Atlas <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb icon" width="20px" height="20px"/>
 
 ## 😄 What I Know
 
-- HTML
-- CSS
-- Javascript
-- Tailwind
-- Npm
-- Node
-- Yarn
-- Figma
+- HTML <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html icon" width="20px" height="20px"/>
+- CSS <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css icon" width="20px" height="20px"/>
+- Javascript <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript icon" width="20px" height="20px"/>
+- Tailwind <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind icon" width="20px" height="20px"/>
+- Npm <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm icon" width="20px" height="20px"/>
+- Node <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="node icon" width="20px" height="20px"/>
+- Yarn <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="yarn icon" width="20px" height="20px"/>
+- Figma <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma icon" width="20px" height="20px"/>
 
 
 ## 🎓 completed courses
-  ### Next Level Week 3° Edition | Happy Project
+  ### Next Level Week 3° Edition | Happy Project <img src="https://github.com/DarlonHenrique/happy-project-nlw-3/blob/main/public/images/logo-icon.png" alt="happy icon" width="30px"/>
   ![happy image](https://github.com/DarlonHenrique/happy-project-nlw-3/blob/main/.github/Happy.png)
   > the happy app was developed with the intention of helping people book visits to social assistance houses and making the day of several people better
-  ### technologies used 
+  ### technologies used
   in this app I used the **Handlebars** to create the project template, I also used **SQlite** as a local database, and used the **Nodemon** for fast refresh and server, the style was done with pure **CSS**, I  implemented the **OpenStreetMap API** to generate a map and pure **javascript** to create the back-end.
