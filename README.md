@@ -9,17 +9,6 @@
 - Typescript <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript icon" width="20px" height="20px"/>
 - MongoDB Atlas <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb icon" width="20px" height="20px"/>
 
-## 😄 What I Know
-
-- HTML <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html icon" width="20px" height="20px"/>
-- CSS <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css icon" width="20px" height="20px"/>
-- Javascript <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript icon" width="20px" height="20px"/>
-- Tailwind <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind icon" width="20px" height="20px"/>
-- Npm <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm icon" width="20px" height="20px"/>
-- Node <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="node icon" width="20px" height="20px"/>
-- Yarn <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="yarn icon" width="20px" height="20px"/>
-- Figma <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma icon" width="20px" height="20px"/>
-
 
 ## 🎓 completed courses
   ### Happy Project <img src="https://github.com/DarlonHenrique/happy-project-nlw-3/blob/main/public/images/logo-icon.png" alt="happy icon" width="30px"/>
