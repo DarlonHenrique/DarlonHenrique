@@ -4,9 +4,9 @@
 
 ## 📚 Currently Studying
 
-- Next <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next icon" width="20px" height="20px"/>
-- React <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react icon" width="20px" height="20px"/>
-- Web Design <img src="https://img.icons8.com/ios/452/web-design.png" alt="typescript icon" width="20px" height="20px"/>
+- Next <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" align="center" alt="next icon" width="20px" height="20px"/>
+- React <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" align="center" alt="react icon" width="20px" height="20px"/>
+- Design <img src="https://img.icons8.com/ios/452/web-design.png" align="center" alt="typescript icon" width="20px" height="20px"/>
 
 
 ## 📞 contact 
