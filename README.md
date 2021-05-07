@@ -4,13 +4,13 @@
 
 ## 📚 Currently Studying
 
-- Next <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" align="center" alt="next icon" width="20px" height="20px"/>
-- React <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" align="center" alt="react icon" width="20px" height="20px"/>
-- Design <img src="https://img.icons8.com/ios/452/web-design.png" align="center" alt="typescript icon" width="20px" height="20px"/>
+- <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" align="center" alt="next icon" width="20px" height="20px"/> Next 
+- <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" align="center" alt="react icon" width="20px" height="20px"/> React 
+- <img src="https://img.icons8.com/ios/452/web-design.png" align="center" alt="typescript icon" width="20px" height="20px"/> Design
 
 
 ## 📞 contact 
 
-- <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="email:" width="20px" heigth="20px"/> darlonhenrisouza@gmail.com
-- <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin:" width="20px" height="20px"/> <a href="https://www.linkedin.com/in/darlonhenrique/"> @Darlon Henrique</a>
-- <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="instagram:" width="20px" heigth="20px" /> <a href="https://www.instagram.com/darlon.henrique/"> @darlon.henrique</a>
+- <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" align="center" alt="email:" width="20px" heigth="20px"/> darlonhenrisouza@gmail.com
+- <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" align="center" alt="linkedin:" width="20px" height="20px"/> <a href="https://www.linkedin.com/in/darlonhenrique/"> @Darlon Henrique</a>
+- <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" align="center" alt="instagram:" width="20px" heigth="20px" /> <a href="https://www.instagram.com/darlon.henrique/"> @darlon.henrique</a>
