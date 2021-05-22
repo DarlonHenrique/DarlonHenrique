@@ -4,9 +4,13 @@
 
 ## 📚 Currently Studying
 
-- <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" align="center" alt="next icon" width="20px" height="20px"/> Next 
-- <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" align="center" alt="react icon" width="20px" height="20px"/> React 
-- <img src="https://img.icons8.com/ios/452/web-design.png" align="center" alt="typescript icon" width="20px" height="20px"/> Design
+- theory and fundamentals of design
+- web design
+- UI/UX Design
+- JavaScript (ES6)
+- React
+- Next
+- Tailwind
 
 
 ## 📞 contact 
