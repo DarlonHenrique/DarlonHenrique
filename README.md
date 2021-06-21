@@ -4,10 +4,10 @@
 
 ## 📚 Currently Studying
 
-- theory and fundamentals of design
-- web design
-- UI/UX Design
-- JavaScript (ES6)
+- API
+- REST and RESTful
+- NodeJS
+- MongoDB
 - React
 - Next
 - Tailwind
