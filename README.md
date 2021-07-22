@@ -4,13 +4,10 @@
 
 ## 📚 Currently Studying
 
-- API
-- REST and RESTful
-- NodeJS
-- MongoDB
+- API REST
 - React
+- GraphQL
 - Next
-- Tailwind
 
 
 ## 📞 contact 
