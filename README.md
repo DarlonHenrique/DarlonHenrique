@@ -5,9 +5,9 @@
 ## 📚 Currently Studying
 
 - API REST
-- React
+- Clean Architecture
 - GraphQL
-- Next
+- PHP
 
 
 ## 📞 contact 
